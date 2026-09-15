@@ -1,10 +1,10 @@
-# 🏢 DeskIn - Workspace Booking Mobile Application
+#  DeskIn - Workspace Booking Mobile Application
 
 > A modern Flutter mobile application designed to simplify workspace discovery and real-time desk/meeting room bookings for freelancers, students, and startups in Egypt.
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 Finding quiet, well-equipped workspaces or private meeting rooms in Egypt often involves manual calls, WhatsApp back-and-forth, or facing double-booking issues upon arrival. 
 
@@ -15,7 +15,7 @@ The project follows a **Product-Driven Engineering** methodology:
 
 ---
 
-## 📄 Product & Technical Documentation (`/docs`)
+##  Product & Technical Documentation (`/docs`)
 
 To ensure clear requirements before writing code, comprehensive documentation and visual diagrams were prepared in the [`/docs`](./docs) directory:
 
@@ -26,7 +26,7 @@ To ensure clear requirements before writing code, comprehensive documentation an
 
 ---
 
-## 🎨 Visual System Diagrams
+##  Visual System Diagrams
 
 ### 1. User Journey & Booking Flow
 Below is the core interaction flow from user entry to QR code generation[cite: 1]:
@@ -73,7 +73,7 @@ State Management: BLoC / Cubit
 
 Dependency Injection: GetIt / Injectable
 
-Networking: Dio + Retrofit (RESTful API)
+Networking: Dio 
 
 Diagrams: Mermaid.js
 
